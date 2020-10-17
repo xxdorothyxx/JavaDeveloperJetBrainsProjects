@@ -1,0 +1,3 @@
+/Users/doroteea/Desktop/3.9/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/doroteea/Desktop/3.9/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/doroteea/Desktop/3.9/cmake-build-debug/CMakeFiles/3_9.dir

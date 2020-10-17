@@ -1,0 +1,84 @@
+
+                 *********************************************
+                 *                                           *
+                 *             A I M - S p i c e             *
+                 *                                           *
+                 *         Professional Version 2019.100           *
+                 *                                           *
+                 *********************************************
+
+	Date: Fri Nov 15 10:31:15 2019
+	Circuit File: C:\Users\Gellert\Documents\An2-sem1\DAC\ttl-nand.cir
+	Analysis: Transient
+
+**************************  Circuit Description  **************************
+
+     1:  TTL-NAND
+     2:  
+     3:  Q1A 4 3 1 Tranz
+     4:  Q1B 4 3 2 Tranz
+     5:  Q2 6 4 5 Tranz
+     6:  Q3 7 6 8 Tranz
+     7:  Q4 9 5 0 Tranz
+     8:  
+     9:  D1 0 1 myDiode
+    10:  D2 0 2 myDiode
+    11:  D3 8 9 myDiode
+    12:  
+    13:  R1 cc 3 4K
+    14:  R2 cc 6 1.6K
+    15:  R3 cc 7 130
+    16:  R4 5 0 1K
+    17:  
+    18:  .MODEL myDiode D TT = 5e-9
+    19:  .MODEL Tranz NPN TR = 5e-9 TF = 8e-9
+    20:  
+    21:  Vcc cc 0 DC 5 
+    22:  VA 1 0 DC 5 pulse(0 5 0 1e-9 1e-9 1e-8 2e-8)
+    23:  VB 2 0 DC 5
+    24:  
+    25:  C1 9 0 15p
+    26:  
+    27:  
+    28:  .tran 1e-9 6e-8
+
+***************************  Model Parameters  ****************************
+
+
+***************  Device Parameters (Only for .op analysis)  ***************
+
+
+
+**************************  Analysis Parameters  **************************
+
+	Stepsize ............ : 1e-9
+	Final time .......... : 6e-8
+	Use Initial Conditions: Off
+
+
+
+**************  Options (Only those different from default)  **************
+
+
+
+*************************  Simulation Statistics  *************************
+
+	Total number of iterations.....................: 719
+	Number of iterations for transient analysis....: 705
+	Total number of timepoints.....................: 190
+	Number of timepoints accepted..................: 161
+	Number of timepoints rejected..................: 29
+	Total analysis time (sec)......................: 0.014
+	Transient analysis time (sec)..................: 0.011
+	Time spent in device loading (sec).............: 0.005
+	Time spent in L-U decomposition (sec)..........: 0
+	Time spent in matrix reordering (sec)..........: 0
+	Time spent in matrix solving (sec).............: 0
+	Time spent in transient L-U decomposition (sec): 0
+	Time spent in transient matrix solving (sec)...: 0
+
+***************************  Kernel Messages  *****************************
+
+Circuit: TTL-NAND
+
+

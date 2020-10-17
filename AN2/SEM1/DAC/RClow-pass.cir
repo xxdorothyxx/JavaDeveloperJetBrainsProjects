@@ -1,0 +1,24 @@
+[aimspice]
+[description]
+79
+RC low-pass filter
+
+R1 IN OUT 10k
+C1 OUT 0 470n
+
+Vin IN 0 sin(0 5 500 0 0)
+[tran]
+1e-9
+6e-3
+X
+X
+0
+[ana]
+4 1
+0
+1 1
+1 1 0 5
+2
+v(in)
+v(out)
+[end]

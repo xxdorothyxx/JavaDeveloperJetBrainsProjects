@@ -1,0 +1,3 @@
+/Users/doroteea/Documents/Lab_CP_sem1/EXAM/testingoutput/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/doroteea/Documents/Lab_CP_sem1/EXAM/testingoutput/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/doroteea/Documents/Lab_CP_sem1/EXAM/testingoutput/cmake-build-debug/CMakeFiles/testingoutput.dir

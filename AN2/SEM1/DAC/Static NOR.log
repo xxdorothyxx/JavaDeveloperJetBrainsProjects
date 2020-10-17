@@ -1,0 +1,71 @@
+
+                 *********************************************
+                 *                                           *
+                 *             A I M - S p i c e             *
+                 *                                           *
+                 *         Professional Version 2019.100           *
+                 *                                           *
+                 *********************************************
+
+	Date: Thu Jan  9 22:44:16 2020
+	Circuit File: C:\Users\Gellert\Documents\An2-sem1\DAC\Static NOR.cir
+	Analysis: Transient
+
+**************************  Circuit Description  **************************
+
+     1:  The static NOR
+     2:  
+     3:  M1 OUT A 0 0 NMOS1 l=1u w=10u
+     4:  M2 OUT B 0 0 NMOS1 l=1u w=10u
+     5:  .model NMOS1 nmos vto=1.5
+     6:  M3 DD GG OUT OUT NMOS2 l=10u w=1u
+     7:  .model NMOS2 nmos vto=2.5
+     8:  
+     9:  Vdd DD 0 DC 5
+    10:  Vgg GG 0 DC 7.5
+    11:  Va A 0 PULSE (0 5 0 1e-10 1e-10 1e-9 2e-9)
+    12:  Vb B 0 DC 0
+    13:  .tran 1e-9 6e-9
+
+***************************  Model Parameters  ****************************
+
+
+***************  Device Parameters (Only for .op analysis)  ***************
+
+
+
+**************************  Analysis Parameters  **************************
+
+	Stepsize ............ : 1e-9
+	Final time .......... : 6e-9
+	Use Initial Conditions: Off
+
+
+
+**************  Options (Only those different from default)  **************
+
+
+
+*************************  Simulation Statistics  *************************
+
+	Total number of iterations.....................: 299
+	Number of iterations for transient analysis....: 287
+	Total number of timepoints.....................: 95
+	Number of timepoints accepted..................: 95
+	Number of timepoints rejected..................: 0
+	Total analysis time (sec)......................: 0.007
+	Transient analysis time (sec)..................: 0.007
+	Time spent in device loading (sec).............: 0
+	Time spent in L-U decomposition (sec)..........: 0
+	Time spent in matrix reordering (sec)..........: 0
+	Time spent in matrix solving (sec).............: 0
+	Time spent in transient L-U decomposition (sec): 0
+	Time spent in transient matrix solving (sec)...: 0
+
+***************************  Kernel Messages  *****************************
+
+Circuit: The static NOR
+
+Warning: va: no DC value, transient time 0 value used
+Warning: va: no DC value, transient time 0 value used
+

@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0e6182b1-c081-484a-bf0e-f010e839a7ae" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.localized" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C problems/lab 3_ex1/lab 3_ex1.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C problems/lab 3_ex1/lab 3_ex1.xcodeproj/project.xcworkspace/xcuserdata/doroteea.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello World/Hello World.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello World/Hello World.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello World/Hello World.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello World/Hello World.xcodeproj/project.xcworkspace/xcuserdata/doroteea.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello World/Hello World.xcodeproj/xcuserdata/doroteea.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello World/Hello World/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1-cp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Not empty.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab 3_3.3/lab 3_ex1.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab 3_3.3/lab 3_ex1.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab 3_3.3/lab 3_ex1.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab 3_3.3/lab 3_ex1.xcodeproj/project.xcworkspace/xcuserdata/doroteea.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab 3_3.3/lab 3_ex1.xcodeproj/xcuserdata/doroteea.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab 3_3.3/lab 3_ex1/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_3_3.4/lab_3_3.4.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_3_3.4/lab_3_3.4.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_3_3.4/lab_3_3.4.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_3_3.4/lab_3_3.4.xcodeproj/project.xcworkspace/xcuserdata/doroteea.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_3_3.4/lab_3_3.4.xcodeproj/xcuserdata/doroteea.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_3_3.4/lab_3_3.4/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/s.w2.2/bin/Debug/s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/s.w2.2/bin/Debug/s.w2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/s.w2.2/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/s.w2.2/obj/Debug/main.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/s.w2.2/s.w2.2.depend" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/s.w2.2/s.w2.2.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTCN_SEM1_CARTI/Catalog pt. conspecte/7447.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTCN_SEM1_CARTI/Catalog pt. conspecte/7495.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTCN_SEM1_CARTI/Catalog pt. conspecte/DM5406.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTCN_SEM1_CARTI/Catalog pt. conspecte/DM54148.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTCN_SEM1_CARTI/Catalog pt. conspecte/DM54180.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTCN_SEM1_CARTI/Catalog pt. conspecte/DM5476.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTCN_SEM1_CARTI/Catalog pt. conspecte/DM54LS283.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTCN_SEM1_CARTI/Catalog pt. conspecte/DM54LS73A.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTCN_SEM1_CARTI/Catalog pt. conspecte/DM54LS86.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTCN_SEM1_CARTI/Catalog pt. conspecte/DM74LS00.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTCN_SEM1_CARTI/Catalog pt. conspecte/DM74LS02.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTCN_SEM1_CARTI/Catalog pt. conspecte/DM74LS03.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTCN_SEM1_CARTI/Catalog pt. conspecte/DM74LS04.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTCN_SEM1_CARTI/Catalog pt. conspecte/DM74LS05.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTCN_SEM1_CARTI/Catalog pt. conspecte/DM74LS08.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTCN_SEM1_CARTI/Catalog pt. conspecte/DM74LS09.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTCN_SEM1_CARTI/Catalog pt. conspecte/DM74LS10.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTCN_SEM1_CARTI/Catalog pt. conspecte/DM74LS11.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTCN_SEM1_CARTI/Catalog pt. conspecte/DM74LS125A.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTCN_SEM1_CARTI/Catalog pt. conspecte/DM74LS14.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTCN_SEM1_CARTI/Catalog pt. conspecte/DM74LS151.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTCN_SEM1_CARTI/Catalog pt. conspecte/DM74LS153.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTCN_SEM1_CARTI/Catalog pt. conspecte/DM74LS154.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTCN_SEM1_CARTI/Catalog pt. conspecte/DM74LS157.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTCN_SEM1_CARTI/Catalog pt. conspecte/DM74LS160A.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTCN_SEM1_CARTI/Catalog pt. conspecte/DM74LS161A.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTCN_SEM1_CARTI/Catalog pt. conspecte/DM74LS162A.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTCN_SEM1_CARTI/Catalog pt. conspecte/DM74LS163A.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTCN_SEM1_CARTI/Catalog pt. conspecte/DM74LS181.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTCN_SEM1_CARTI/Catalog pt. conspecte/DM74LS192.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTCN_SEM1_CARTI/Catalog pt. conspecte/DM74LS193.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTCN_SEM1_CARTI/Catalog pt. conspecte/DM74LS194A.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTCN_SEM1_CARTI/Catalog pt. conspecte/DM74LS20.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTCN_SEM1_CARTI/Catalog pt. conspecte/DM74LS21.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTCN_SEM1_CARTI/Catalog pt. conspecte/DM74LS27.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTCN_SEM1_CARTI/Catalog pt. conspecte/DM74LS30.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTCN_SEM1_CARTI/Catalog pt. conspecte/DM74LS32.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTCN_SEM1_CARTI/Catalog pt. conspecte/DM74LS40.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTCN_SEM1_CARTI/Catalog pt. conspecte/DM74LS42.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTCN_SEM1_CARTI/Catalog pt. conspecte/DM74LS47.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTCN_SEM1_CARTI/Catalog pt. conspecte/DM74LS51.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTCN_SEM1_CARTI/Catalog pt. conspecte/DM74LS74A.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTCN_SEM1_CARTI/Indrumator ProiectareLogica 2019/Anexa2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTCN_SEM1_CARTI/Indrumator ProiectareLogica 2019/ProiectareLogica1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTCN_SEM1_CARTI/Indrumator ProiectareLogica 2019/ProiectareLogica10.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTCN_SEM1_CARTI/Indrumator ProiectareLogica 2019/ProiectareLogica11.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTCN_SEM1_CARTI/Indrumator ProiectareLogica 2019/ProiectareLogica12.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTCN_SEM1_CARTI/Indrumator ProiectareLogica 2019/ProiectareLogica13.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTCN_SEM1_CARTI/Indrumator ProiectareLogica 2019/ProiectareLogica2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTCN_SEM1_CARTI/Indrumator ProiectareLogica 2019/ProiectareLogica3.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTCN_SEM1_CARTI/Indrumator ProiectareLogica 2019/ProiectareLogica4.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTCN_SEM1_CARTI/Indrumator ProiectareLogica 2019/ProiectareLogica5.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTCN_SEM1_CARTI/Indrumator ProiectareLogica 2019/ProiectareLogica6.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTCN_SEM1_CARTI/Indrumator ProiectareLogica 2019/ProiectareLogica8.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTCN_SEM1_CARTI/Indrumator ProiectareLogica 2019/ProiectareLogica9.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTCN_SEM1_CARTI/Special mathematics-counting problems,discrete probabilities,graphs theory.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTCN_SEM1_CARTI/infotech_english_for_computer_users_4th_ed_students_book.pdf" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1SZVbakfqfaqo41uWjFNejwYViR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0e6182b1-c081-484a-bf0e-f010e839a7ae" name="Default Changelist" comment="" />
+      <created>1571771176592</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571771176592</updated>
+      <workItem from="1571771178084" duration="12000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

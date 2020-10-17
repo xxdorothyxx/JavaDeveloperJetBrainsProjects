@@ -1,0 +1,68 @@
+
+                 *********************************************
+                 *                                           *
+                 *             A I M - S p i c e             *
+                 *                                           *
+                 *         Professional Version 2019.100           *
+                 *                                           *
+                 *********************************************
+
+	Date: Fri Nov 22 11:05:40 2019
+	Circuit File: Untitled
+	Analysis: DC Transfer Curves
+
+**************************  Circuit Description  **************************
+
+     1:  Transmission Gate
+     2:  
+     3:  MP in na out dd PMOS l=1u w=10u
+     4:  .Model PMOS pmos VTO=-1.5
+     5:  
+     6:  MN in a out ss NMOS l=1u w=10u
+     7:  .Model NMOS nmos VTO=1.5
+     8:  
+     9:  Vdd dd 0 DC 5
+    10:  Vss ss 0 DC 0
+    11:  
+    12:  Vin in 0 DC 5 pulse(0 5 0 1e-10 1e-10 1e-6 2e-6)
+    13:  
+    14:  Va a 0 DC 5
+    15:  Vna na 0 DC 0
+    16:  
+    17:  !Cs out 0 0.1p
+    18:  .dc Vin 0 5 0.1
+
+***************************  Model Parameters  ****************************
+
+
+***************  Device Parameters (Only for .op analysis)  ***************
+
+
+
+**************************  Analysis Parameters  **************************
+
+	Source name #1 .. : Vin
+	Start value #1 .. : 0
+	End value #1 .... : 5
+	Increment value #1: 0.1
+
+
+
+**************  Options (Only those different from default)  **************
+
+
+
+*************************  Simulation Statistics  *************************
+
+	Total number of iterations...........: 107
+	Total analysis time (sec)............: 0.003
+	Time spent in device loading (sec)...: 0.001
+	Time spent in L-U decomposition (sec): 0
+	Time spent in matrix reordering (sec): 0
+	Time spent in matrix solving (sec)...: 0
+
+***************************  Kernel Messages  *****************************
+
+Circuit: Transmission Gate
+
+

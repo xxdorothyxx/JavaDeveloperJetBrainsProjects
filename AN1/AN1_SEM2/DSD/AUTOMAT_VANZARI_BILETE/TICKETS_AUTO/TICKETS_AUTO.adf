@@ -1,0 +1,100 @@
+[Project]
+Current Flow=Generic
+VCS=0
+version=4
+Current Config=compile
+
+[Configurations]
+compile=TICKETS_AUTO
+
+[Library]
+TICKETS_AUTO=.\TICKETS_AUTO\TICKETS_AUTO.lib
+
+[$LibMap$]
+TICKETS_AUTO=.
+Active_lib=
+
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+FLOWTOOLS=NONE
+FAMILY=
+fileopenfolder=C:\My_Designs\AUTOMAT_VANZARI_BILETE\TICKETS_AUTO\src
+
+[SpecTracer]
+WindowVisible=0
+
+[HierarchyViewer]
+HierarchyInformation=ticket_automata|behaviour|0     
+ShowHide=ShowTopLevel
+Selected=
+
+[Folders]
+Name0=Event Lists
+Directory0=C:\My_Designs\AUTOMAT_VANZARI_BILETE\TICKETS_AUTO\
+Extension0=lst
+Name1=Logs
+Directory1=C:\My_Designs\AUTOMAT_VANZARI_BILETE\TICKETS_AUTO\
+Extension1=log;htm;xml;txt
+Name2=Waveforms
+Directory2=C:\My_Designs\AUTOMAT_VANZARI_BILETE\TICKETS_AUTO\
+Extension2=asdb;awc;asdbc;asdbe
+Name3=Makefiles
+Directory3=C:\My_Designs\AUTOMAT_VANZARI_BILETE\TICKETS_AUTO\
+Extension3=mak
+Name4=Memory
+Directory4=C:\My_Designs\AUTOMAT_VANZARI_BILETE\TICKETS_AUTO\
+Extension4=mem;mif;hex
+Name5=Dll Libraries
+Directory5=C:\My_Designs\AUTOMAT_VANZARI_BILETE\TICKETS_AUTO\
+Extension5=dll
+Name6=PDF
+Directory6=C:\My_Designs\AUTOMAT_VANZARI_BILETE\TICKETS_AUTO\
+Extension6=pdf
+Name7=HTML
+Directory7=C:\My_Designs\AUTOMAT_VANZARI_BILETE\TICKETS_AUTO\
+Extension7=htm;html
+
+[Files]
+/Afisior 7 segments.vhd=-1
+/distanta.vhd=-1
+/PRET_BILET.vhd=-1
+/INTRODUCED SUM.vhd=-1
+/Comparator.vhd=-1
+/verificare.vhd=-1
+/ELIBERARE_REST.vhd=-1
+/numarator bilete.vhd=-1
+/`theATM.vhd=-1
+/mainP.vhd=-1
+/ELIBERARE_PRET.vhd=-1
+/atm.asdb=-1
+/atm.awc=-1
+/elibRest.asdb=-1
+/elibRest.awc=-1
+/dist.asdb=-1
+/dist.awc=-1
+/projmain.asdb=-1
+/projmain.awc=-1
+
+[Files.Data]
+.\src\Afisior 7 segments.vhd=VHDL Source Code
+.\src\distanta.vhd=VHDL Source Code
+.\src\PRET_BILET.vhd=VHDL Source Code
+.\src\INTRODUCED SUM.vhd=VHDL Source Code
+.\src\Comparator.vhd=VHDL Source Code
+.\src\verificare.vhd=VHDL Source Code
+.\src\ELIBERARE_REST.vhd=VHDL Source Code
+.\src\numarator bilete.vhd=VHDL Source Code
+.\src\`theATM.vhd=VHDL Source Code
+.\src\mainP.vhd=VHDL Source Code
+.\src\ELIBERARE_PRET.vhd=VHDL Source Code
+.\src\atm.asdb=Accelerated Waveform File
+.\src\atm.awc=Accelerated Waveform Configuration
+.\src\elibRest.asdb=Accelerated Waveform File
+.\src\elibRest.awc=Accelerated Waveform Configuration
+.\src\dist.asdb=Accelerated Waveform File
+.\src\dist.awc=Accelerated Waveform Configuration
+.\src\projmain.asdb=Accelerated Waveform File
+.\src\projmain.awc=Accelerated Waveform Configuration
+

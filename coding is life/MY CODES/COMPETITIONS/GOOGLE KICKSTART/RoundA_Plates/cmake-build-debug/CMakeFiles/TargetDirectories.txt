@@ -1,0 +1,3 @@
+/Users/doroteea/Documents/coding is life/MY CODES/COMPETITIONS/GOOGLE KICKSTART/RoundA_Plates/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/doroteea/Documents/coding is life/MY CODES/COMPETITIONS/GOOGLE KICKSTART/RoundA_Plates/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/doroteea/Documents/coding is life/MY CODES/COMPETITIONS/GOOGLE KICKSTART/RoundA_Plates/cmake-build-debug/CMakeFiles/RoundA_Plates.dir

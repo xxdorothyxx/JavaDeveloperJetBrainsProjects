@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/doroteea/Documents/AN2/SEM1/FA labs/generare_siruri/main.cpp
+iostream
+-
+fstream
+-
+math.h
+-
+time.h
+-
+

@@ -1,0 +1,3 @@
+/Users/doroteea/Documents/DS/Graphs(Transversals)/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/doroteea/Documents/DS/Graphs(Transversals)/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/doroteea/Documents/DS/Graphs(Transversals)/cmake-build-debug/CMakeFiles/Graphs_Transversals_.dir

@@ -1,0 +1,94 @@
+<config>
+    <version>
+        3.1
+    </version>
+    <comment>
+    </comment>
+    <databases>
+        <database id="">*virtual*</database>
+        <database id="LOCAL___9787cf5ef5e4af003200">projmain.asdb</database>
+    </databases>
+    <signallists>
+        <signallist id="0">
+        <signal>/ticket_automata/clk</signal>
+        <signal>/ticket_automata/RESET</signal>
+        <signal>/ticket_automata/en_dist</signal>
+        <signal>/ticket_automata/en_buy</signal>
+        <signal>/ticket_automata/GO</signal>
+        <signal>/ticket_automata/reset_automata</signal>
+        <signal>/ticket_automata/s1</signal>
+        <signal>/ticket_automata/s2</signal>
+        <signal>/ticket_automata/s5</signal>
+        <signal>/ticket_automata/s10</signal>
+        <signal>/ticket_automata/s50</signal>
+        <signal>/ticket_automata/bilet</signal>
+        <signal>/ticket_automata/o1</signal>
+        <signal>/ticket_automata/o2</signal>
+        <signal>/ticket_automata/o5</signal>
+        <signal>/ticket_automata/o10</signal>
+        <signal>/ticket_automata/o50</signal>
+        <signal>/ticket_automata/r1</signal>
+        <signal>/ticket_automata/r2</signal>
+        <signal>/ticket_automata/r5</signal>
+        <signal>/ticket_automata/r10</signal>
+        <signal>/ticket_automata/r50</signal>
+        <signal>/ticket_automata/WARNING</signal>
+        <signal>/ticket_automata/WARN</signal>
+        <signal>/ticket_automata/an4</signal>
+        <signal>/ticket_automata/an3</signal>
+        <signal>/ticket_automata/an2</signal>
+        <signal>/ticket_automata/an1</signal>
+        <signal>/ticket_automata/an0</signal>
+        <signal>/ticket_automata/dist0</signal>
+        <signal>/ticket_automata/dist1</signal>
+        <signal>/ticket_automata/dist2</signal>
+        <signal>/ticket_automata/price</signal>
+        <signal>/ticket_automata/suma</signal>
+        <signal>/ticket_automata/N1</signal>
+        <signal>/ticket_automata/N2</signal>
+        <signal>/ticket_automata/N5</signal>
+        <signal>/ticket_automata/N10</signal>
+        <signal>/ticket_automata/N50</signal>
+        <signal>/ticket_automata/rest</signal>
+        <signal>/ticket_automata/OK</signal>
+        <signal>/ticket_automata/en_modif</signal>
+        <signal>/ticket_automata/en_sum</signal>
+        <signal>/ticket_automata/en_rest</signal>
+        <signal>/ticket_automata/e1</signal>
+        <signal>/ticket_automata/e2</signal>
+        <signal>/ticket_automata/e5</signal>
+        <signal>/ticket_automata/e10</signal>
+        <signal>/ticket_automata/e50</signal>
+        <signal>/ticket_automata/count</signal>
+        <signal>/ticket_automata/modif</signal>
+        <signal>/ticket_automata/undone</signal>
+        </signallist>
+    </signallists>
+    <timebases>
+        <timebase id="0">
+            <time start_time="0" end_time="102484" />
+        </timebase>
+    </timebases>
+    <prefbases>
+        <prefbase id="0" >
+        </prefbase>
+    </prefbases>
+    <bookmarkbases>
+        <bookmarks id="0">
+        </bookmarks>
+    </bookmarkbases>
+    <cursorbases>
+        <cursors id="0">
+            <cursor value="2300000" label="Cursor 1" locked="0" />
+        </cursors>
+    </cursorbases>
+    <measurementbases>
+    </measurementbases>
+    <commentbases>
+        <comments id="0">
+        </comments>
+    </commentbases>
+    <views>
+        <view signallist="0" propertybase="0" prefbase="0" type="1" bookmarks="0" cursors="0" measurements="-1" comments="-1" />
+    </views>
+</config>

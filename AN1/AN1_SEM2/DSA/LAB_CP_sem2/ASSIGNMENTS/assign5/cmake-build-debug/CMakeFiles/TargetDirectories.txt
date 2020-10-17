@@ -1,0 +1,3 @@
+/Users/doroteea/Documents/LAB_CP_sem2/ASSIGNMENTS/assign5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/doroteea/Documents/LAB_CP_sem2/ASSIGNMENTS/assign5/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/doroteea/Documents/LAB_CP_sem2/ASSIGNMENTS/assign5/cmake-build-debug/CMakeFiles/Graphs_Transversals_.dir

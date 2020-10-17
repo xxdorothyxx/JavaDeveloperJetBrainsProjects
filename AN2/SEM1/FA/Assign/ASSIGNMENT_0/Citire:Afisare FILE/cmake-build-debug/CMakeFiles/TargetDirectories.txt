@@ -1,0 +1,3 @@
+/Users/doroteea/Documents/AN2/SEM1/FA labs/try/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/doroteea/Documents/AN2/SEM1/FA labs/try/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/doroteea/Documents/AN2/SEM1/FA labs/try/cmake-build-debug/CMakeFiles/try.dir

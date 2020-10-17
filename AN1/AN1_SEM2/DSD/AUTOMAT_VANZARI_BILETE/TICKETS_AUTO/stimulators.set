@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<document type="stimulators" version="1">
+		<set name="ASDB Stimulators" active="1">
+			<stimulator>
+				<signal_path value="/ticket_automata/GO"/>
+				<rawdescription value="KEY:KEY:Override:69/0,1:E:1:"/>
+			</stimulator>
+			<stimulator>
+				<signal_path value="/ticket_automata/RESET"/>
+				<rawdescription value="KEY:KEY:Override:49/0,1:1:1:"/>
+			</stimulator>
+			<stimulator>
+				<signal_path value="/ticket_automata/clk"/>
+				<rawdescription value="CLK:FRM:Override:100.000000;2;1;0;50;1:Clock:1:"/>
+			</stimulator>
+			<stimulator>
+				<signal_path value="/ticket_automata/en_buy"/>
+				<rawdescription value="KEY:KEY:Override:87/0,1:W:1:"/>
+			</stimulator>
+			<stimulator>
+				<signal_path value="/ticket_automata/en_dist"/>
+				<rawdescription value="KEY:KEY:Override:81/0,1:Q:1:"/>
+			</stimulator>
+			<stimulator>
+				<signal_path value="/ticket_automata/reset_automata"/>
+				<rawdescription value="KEY:KEY:Override:50/0,1:2:1:"/>
+			</stimulator>
+			<stimulator>
+				<signal_path value="/ticket_automata/s1"/>
+				<rawdescription value="KEY:KEY:Override:65/0,1:A:1:"/>
+			</stimulator>
+			<stimulator>
+				<signal_path value="/ticket_automata/s10"/>
+				<rawdescription value="KEY:KEY:Override:70/0,1:F:1:"/>
+			</stimulator>
+			<stimulator>
+				<signal_path value="/ticket_automata/s2"/>
+				<rawdescription value="KEY:KEY:Override:83/0,1:S:1:"/>
+			</stimulator>
+			<stimulator>
+				<signal_path value="/ticket_automata/s5"/>
+				<rawdescription value="KEY:KEY:Override:68/0,1:D:1:"/>
+			</stimulator>
+			<stimulator>
+				<signal_path value="/ticket_automata/s50"/>
+				<rawdescription value="KEY:KEY:Override:71/0,1:G:1:"/>
+			</stimulator>
+		</set>
+	</document>
+</XML>

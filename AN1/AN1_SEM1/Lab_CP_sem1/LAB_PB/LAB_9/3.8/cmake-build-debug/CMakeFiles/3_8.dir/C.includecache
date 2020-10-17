@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/doroteea/Documents/Lab_CP_sem1/LAB_PB/LAB_9/3.8/main.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+

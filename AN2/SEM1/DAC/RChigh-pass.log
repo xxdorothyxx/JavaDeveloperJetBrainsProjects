@@ -1,0 +1,66 @@
+
+                 *********************************************
+                 *                                           *
+                 *             A I M - S p i c e             *
+                 *                                           *
+                 *         Professional Version 2019.100           *
+                 *                                           *
+                 *********************************************
+
+	Date: Tue Jan  7 16:04:21 2020
+	Circuit File: C:\Users\Gellert\Documents\An2-sem1\DAC\RChigh-pass.cir
+	Analysis: Transient
+
+**************************  Circuit Description  **************************
+
+     1:  RC high-pass filter
+     2:  
+     3:  R1 OUT 0 10k
+     4:  C1 IN OUT 470n
+     5:  
+     6:  Vin IN 0 sin(0 5 1k 0 0)
+     7:  .tran 1e-6 5e-3 0
+
+***************************  Model Parameters  ****************************
+
+
+***************  Device Parameters (Only for .op analysis)  ***************
+
+
+
+**************************  Analysis Parameters  **************************
+
+	Stepsize ............ : 1e-6
+	Final time .......... : 5e-3
+	Display start time .. : 0
+	Use Initial Conditions: Off
+
+
+
+**************  Options (Only those different from default)  **************
+
+
+
+*************************  Simulation Statistics  *************************
+
+	Total number of iterations.....................: 133
+	Number of iterations for transient analysis....: 130
+	Total number of timepoints.....................: 66
+	Number of timepoints accepted..................: 65
+	Number of timepoints rejected..................: 1
+	Total analysis time (sec)......................: 0.004
+	Transient analysis time (sec)..................: 0.003
+	Time spent in device loading (sec).............: 0
+	Time spent in L-U decomposition (sec)..........: 0
+	Time spent in matrix reordering (sec)..........: 0
+	Time spent in matrix solving (sec).............: 0
+	Time spent in transient L-U decomposition (sec): 0
+	Time spent in transient matrix solving (sec)...: 0
+
+***************************  Kernel Messages  *****************************
+
+Circuit: RC high-pass filter
+
+Warning: vin: no DC value, transient time 0 value used
+Warning: vin: no DC value, transient time 0 value used
+

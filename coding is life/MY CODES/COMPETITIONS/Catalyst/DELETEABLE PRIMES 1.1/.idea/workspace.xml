@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="DELETEABLE_PRIMES_1_1" targetName="DELETEABLE_PRIMES_1_1" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="083f77be-5f2a-4683-a76c-0e74dfacb40d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../Lab_CP_sem1/EXAM/A.1.nr_of_spaces/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Lab_CP_sem1/EXAM/A.2_transpose/.idea/A.2_transpose.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Lab_CP_sem1/EXAM/A.5.perm_matrix/.idea/A.5.perm_matrix.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Lab_CP_sem1/EXAM/CASUALWOOD/.idea/casualwood.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Lab_CP_sem1/EXAM/explorers/.idea/explorers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Lab_CP_sem1/EXAM/heroes/.idea/untitled1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Lab_CP_sem1/EXAM/untitled/.idea/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Lab_CP_sem1/LAB_PB/LAB_10/3.9/.idea/3.4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Lab_CP_sem1/LAB_PB/LAB_12/3.4/.idea/3.4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Lab_CP_sem1/prb/SENTENCE_COMPARISON/.idea/SENTENCE_COMPARISON.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Lab_CP_sem1/prb/casualwood/.idea/casualwood.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Deletable primes/.idea/Deletable_Primes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ciorna/.idea/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deleteablePrimes/.idea/deleteablePrimes.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Lab_CP_sem1/1-cp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Lab_CP_sem1/1-cp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Lab_CP_sem1/LAB_PB/LAB5/LAB5_3.4/.idea/untitled.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Lab_CP_sem1/LAB_PB/LAB5/LAB5_3.8/.idea/untitled1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Lab_CP_sem1/LAB_PB/LAB_10/3.2/.idea/3.2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Lab_CP_sem1/LAB_PB/fix_me/.idea/fix_me.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Deletable primes/.idea/Deletable primes.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../untitled/.idea/untitled.iml" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1XaIll0RSLX654nXWqx7rkkiotS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="DELETEABLE_PRIMES_1_1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DELETEABLE_PRIMES_1_1" TARGET_NAME="DELETEABLE_PRIMES_1_1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DELETEABLE_PRIMES_1_1" RUN_TARGET_NAME="DELETEABLE_PRIMES_1_1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="083f77be-5f2a-4683-a76c-0e74dfacb40d" name="Default Changelist" comment="" />
+      <created>1581277932416</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581277932416</updated>
+      <workItem from="1581277938202" duration="1294000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,65 @@
+
+                 *********************************************
+                 *                                           *
+                 *             A I M - S p i c e             *
+                 *                                           *
+                 *         Professional Version 2019.100           *
+                 *                                           *
+                 *********************************************
+
+	Date: Tue Jan  7 16:18:43 2020
+	Circuit File: C:\Users\Gellert\Documents\An2-sem1\DAC\RClow-pass.cir
+	Analysis: Transient
+
+**************************  Circuit Description  **************************
+
+     1:  RC low-pass filter
+     2:  
+     3:  R1 IN OUT 10k
+     4:  C1 OUT 0 470n
+     5:  
+     6:  Vin IN 0 sin(0 5 1k 0 0)
+     7:  .tran 1e-9 6e-3
+
+***************************  Model Parameters  ****************************
+
+
+***************  Device Parameters (Only for .op analysis)  ***************
+
+
+
+**************************  Analysis Parameters  **************************
+
+	Stepsize ............ : 1e-9
+	Final time .......... : 6e-3
+	Use Initial Conditions: Off
+
+
+
+**************  Options (Only those different from default)  **************
+
+
+
+*************************  Simulation Statistics  *************************
+
+	Total number of iterations.....................: 157
+	Number of iterations for transient analysis....: 154
+	Total number of timepoints.....................: 78
+	Number of timepoints accepted..................: 76
+	Number of timepoints rejected..................: 2
+	Total analysis time (sec)......................: 0.004
+	Transient analysis time (sec)..................: 0.003
+	Time spent in device loading (sec).............: 0
+	Time spent in L-U decomposition (sec)..........: 0
+	Time spent in matrix reordering (sec)..........: 0
+	Time spent in matrix solving (sec).............: 0
+	Time spent in transient L-U decomposition (sec): 0
+	Time spent in transient matrix solving (sec)...: 0
+
+***************************  Kernel Messages  *****************************
+
+Circuit: RC low-pass filter
+
+Warning: vin: no DC value, transient time 0 value used
+Warning: vin: no DC value, transient time 0 value used
+

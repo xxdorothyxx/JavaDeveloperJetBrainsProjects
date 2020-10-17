@@ -1,0 +1,67 @@
+539
+~E 1 "../src/7 bit Adder.vhd" 5 ADD_SUB_7
+~A 1 "../src/7 bit Adder.vhd" 11 BEHAVIOUR
+~E 1 "../src/7 bit Adder.vhd" 4 ADDER_8
+~A 1 "../src/7 bit Adder.vhd" 11 BEHAVIOUR
+~E 1 "../src/AND2_GATE.vhd" 4 AND2_GATE
+~A 1 "../src/And gate 2 inputs.vhd" 9 BEHAVIOUR
+~E 1 "../src/APARAT REST.vhd" 6 aparat_rest
+~E 1 "../src/atm2.vhd" 5 ATM
+~A 1 "../src/atm2.vhd" 11 BEHAVIOUR
+~E 1 "../src/atm2.vhd" 5 ATM2
+~A 1 "../src/atm2.vhd" 11 BEHAVIOUR
+~E 1 "../src/`theATM.vhd" 5 ATM3
+~A 1 "../src/`theATM.vhd" 11 BEHAVIOUR
+~E 1 "../src/PROJECT_MAIN.vhd" 5 automat_bilete_de_tren
+~A 1 "../src/PROJECT_MAIN.vhd" 15 automat
+~E 1 "../src/pt2 rest aparat.vhd" 5 cobai
+~A 1 "../src/pt2 rest aparat.vhd" 12 behaviour
+~E 1 "../src/Comparator.vhd" 7 comp
+~A 1 "../src/Comparator.vhd" 12 comp
+~E 1 "../src/Comparator.vhd" 6 COMPARATOR
+~A 1 "../src/Comparator.vhd" 11 comp
+~E 1 "../src/Counter modulo 10.vhd" 6 COUNTER_MODULO_10
+~E 1 "../src/Counter modulo 2.vhd" 6 COUNTER_MODULO_2
+~E 1 "../src/Distance for one digit.vhd" 4 DIST_ONE_DIGIT
+~E 1 "../src/Introducere distanta.vhd" 4 DISTANCE
+~A 1 "../src/Introducere distanta.vhd" 9 BEHAVIOUR
+~E 1 "../src/distanta.vhd" 5 distanta
+~A 1 "../src/distanta.vhd" 11 distanta_introdusa
+~E 1 "../src/ELIBERARE_REST.vhd" 6 eliberare_rest
+~A 1 "../src/ELIBERARE_REST.vhd" 18 rest
+~E 1 "../src/eliberare_suma.vhd" 11 eliberare_suma
+~A 1 "../src/eliberare_suma.vhd" 23 eliberare_suma
+~E 1 "../src/100euro.vhd" 5 EU_100
+~A 1 "../src/100euro.vhd" 12 BEHAVIOUR
+~E 1 "../src/euro.vhd" 5 EURO
+~E 1 "../src/Conversion4_7.vhd" 5 from4to7
+~E 1 "../src/1 bit Full adder.vhd" 4 FULL_ADDDER
+~A 1 "../src/1 bit Full adder.vhd" 10 BEHAVIOUR
+~E 1 "../src/1 bit Full adder.vhd" 4 FULL_ADDER
+~A 1 "../src/1 bit Full adder.vhd" 10 BEHAVIOUR
+~E 1 "../src/insert coin or banknote.vhd" 4 INSERT_MONEY
+~E 1 "../src/INTRODUCED SUM.vhd" 5 INTRODUCED_SUM
+~A 1 "../src/INTRODUCED SUM.vhd" 10 BEHAVIOUR
+~E 1 "../src/RAM BABE.vhd" 5 myRAM
+~E 1 "../src/nr ban.vhd" 5 NR_BAN
+~E 1 "../src/numarator bilete.vhd" 5 numarator_bilete
+~A 1 "../src/numarator bilete.vhd" 16 counter
+~E 1 "../src/PAYING.vhd" 4 PAYING
+~E 1 "../src/load reg.vhd" 4 pipo
+~A 1 "../src/pipo.vhd" 12 arch
+~E 1 "../src/PRET_BILET.vhd" 4 PRET_BILET
+~A 1 "../src/PRET_BILET.vhd" 9 BEHAVIOUR
+~E 1 "../src/ELIBERARE_PRET.vhd" 6 RETURN_SUM
+~A 1 "../src/ELIBERARE_PRET.vhd" 13 BEHAVIOUR
+~E 1 "../src/Afisior 7 segments.vhd" 4 SEVEN_SEGMENT
+~A 1 "../src/Afisior 7 segments.vhd" 9 behaviour
+~A 1 "../src/Afisior 7 segments.vhd" 10 LED
+~E 1 "../src/INTRODUCED SUM.vhd" 5 suma_introd
+~A 1 "../src/INTRODUCED SUM.vhd" 12 suma
+~E 1 "../src/testt.vhd" 6 test
+~E 1 "../src/mainP.vhd" 5 ticket_automata
+~A 1 "../src/mainP.vhd" 17 behaviour
+~E 1 "../src/Project_main.vhd" 6 TRAIN_TICKET_MACHINE
+~A 1 "../src/Project_main.vhd" 14 BEHAVIOUR
+~E 1 "../src/verificare.vhd" 6 verificare
+~A 1 "../src/verificare.vhd" 14 verif

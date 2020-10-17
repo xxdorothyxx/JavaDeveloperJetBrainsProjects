@@ -1,0 +1,12 @@
+[aimspice]
+[description]
+105
+Half-wave rectifier
+
+D1 1 2 Diode
+RL 2 0 10k
+
+.model Diode d tt = 1e-9
+
+Vin 1 0 sin ( 0 5 1k 0 0 )
+[end]

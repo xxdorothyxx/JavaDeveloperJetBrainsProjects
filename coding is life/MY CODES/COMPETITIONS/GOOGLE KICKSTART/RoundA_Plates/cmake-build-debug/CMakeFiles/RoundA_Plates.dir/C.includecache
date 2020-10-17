@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/doroteea/Documents/coding is life/MY CODES/COMPETITIONS/GOOGLE KICKSTART/RoundA_Plates/main.c
+stdio.h
+-
+stdlib.h
+-
+

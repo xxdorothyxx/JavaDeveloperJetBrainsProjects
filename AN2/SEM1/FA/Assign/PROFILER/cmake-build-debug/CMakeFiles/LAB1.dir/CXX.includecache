@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/doroteea/Documents/AN2/SEM1/FA labs/LAB1/Profiler.h
+Windows.h
+-
+Shellapi.h
+-
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+time.h
+-
+typeinfo
+-
+map
+-
+vector
+-
+algorithm
+-
+functional
+-
+string
+-
+
+/Users/doroteea/Documents/AN2/SEM1/FA labs/LAB1/main.cpp
+Profiler.h
+/Users/doroteea/Documents/AN2/SEM1/FA labs/LAB1/Profiler.h
+

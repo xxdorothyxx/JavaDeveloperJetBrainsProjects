@@ -1,0 +1,22 @@
+[Files List]
+C:\Aldec\Active-HDL-Student-Edition\vlib\std/src/standard.vhd=S
+C:\Aldec\Active-HDL-Student-Edition\vlib\std/src/textio.vhd=S
+C:\Aldec\Active-HDL-Student-Edition\vlib\ieee/src/std_logic_1164.vhdl=S
+C:\Aldec\Active-HDL-Student-Edition\vlib\ieee/src/std_logic_1164-body.vhdl=S
+C:\Aldec\Active-HDL-Student-Edition\vlib\ieee/src/arith_p.vhd=S
+C:\Aldec\Active-HDL-Student-Edition\vlib\ieee/src/arith_b.vhd=S
+C:\Aldec\Active-HDL-Student-Edition\vlib\ieee/src/unsigned_p.vhd=S
+C:\Aldec\Active-HDL-Student-Edition\vlib\ieee/src/unsigned_b.vhd=S
+C:\Aldec\Active-HDL-Student-Edition\vlib\ieee/src/numeric_std.vhdl=S
+C:\Aldec\Active-HDL-Student-Edition\vlib\ieee/src/numeric_std-body.vhdl=S
+C:\My_Designs\AUTOMAT_VANZARI_BILETE\TICKETS_AUTO/src/Comparator.vhd=S
+C:\My_Designs\AUTOMAT_VANZARI_BILETE\TICKETS_AUTO/src/Afisior 7 segments.vhd=S
+C:\My_Designs\AUTOMAT_VANZARI_BILETE\TICKETS_AUTO/src/distanta.vhd=S
+C:\My_Designs\AUTOMAT_VANZARI_BILETE\TICKETS_AUTO/src/ELIBERARE_PRET.vhd=S
+C:\My_Designs\AUTOMAT_VANZARI_BILETE\TICKETS_AUTO/src/numarator bilete.vhd=S
+C:\My_Designs\AUTOMAT_VANZARI_BILETE\TICKETS_AUTO/src/ELIBERARE_REST.vhd=S
+C:\My_Designs\AUTOMAT_VANZARI_BILETE\TICKETS_AUTO/src/verificare.vhd=S
+C:\My_Designs\AUTOMAT_VANZARI_BILETE\TICKETS_AUTO/src/INTRODUCED SUM.vhd=S
+C:\My_Designs\AUTOMAT_VANZARI_BILETE\TICKETS_AUTO/src/`theATM.vhd=S
+C:\My_Designs\AUTOMAT_VANZARI_BILETE\TICKETS_AUTO/src/PRET_BILET.vhd=S
+C:\My_Designs\AUTOMAT_VANZARI_BILETE\TICKETS_AUTO/src/mainP.vhd=S
