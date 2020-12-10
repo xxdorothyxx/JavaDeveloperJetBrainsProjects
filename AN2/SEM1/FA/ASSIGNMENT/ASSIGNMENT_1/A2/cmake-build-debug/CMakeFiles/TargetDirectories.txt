@@ -1,3 +1,0 @@
-/Users/doroteea/Documents/AN2/SEM1/FA/ASSIGNMENT/ASSIGNMENT_1/A2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/doroteea/Documents/AN2/SEM1/FA/ASSIGNMENT/ASSIGNMENT_1/A2/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/doroteea/Documents/AN2/SEM1/FA/ASSIGNMENT/ASSIGNMENT_1/A2/cmake-build-debug/CMakeFiles/A2.dir

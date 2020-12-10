@@ -1,8 +1,0 @@
-8 A
-A B C E G
-B A C H
-C A B D H
-D C
-E A F
-G A
-H B C

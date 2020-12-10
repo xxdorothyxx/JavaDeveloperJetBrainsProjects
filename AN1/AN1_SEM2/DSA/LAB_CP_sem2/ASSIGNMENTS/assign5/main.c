@@ -241,7 +241,7 @@ void dfs(int startNode) {
 
 int getNumberOfNeighborsOfVertexFromList(int v,NodeT **list) {
     if (v < nrOfVertexes) {
-        int nrOfNeighbors = 0;
+        int nrOfNeighbors = 0,i;
        NodeT *currentElement=(NodeT*)malloc(sizeof(NodeT));
         for(i=0;i<nrOfVertexes;i++){
             if(v==i) {

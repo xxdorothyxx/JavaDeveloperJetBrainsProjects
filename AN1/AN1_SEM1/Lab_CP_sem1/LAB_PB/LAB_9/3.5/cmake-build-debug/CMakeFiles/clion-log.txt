@@ -1,7 +1,0 @@
-/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/doroteea/Documents/Lab_CP_sem1/LAB_PB/LAB_9/3.5
-CMake Error at CMakeLists.txt:4:
-  Parse error.  Expected a command name, got unquoted argument with text
-  "//all".
-
-
--- Configuring incomplete, errors occurred!

@@ -1,1 +1,0 @@
--w -erf d:/VHDL/Colocviu_DSD/colocv/compile/colocv.erf -d d:/VHDL/Colocviu_DSD/colocv/compile -s d:/VHDL/Colocviu_DSD/library.cfg -j d:/VHDL/Colocviu_DSD/colocv/projlib.cfg -work colocv -reorder -O3 -e 100 -work colocv -2002 d:/VHDL/Colocviu_DSD/colocv/src/Exam.vhd 

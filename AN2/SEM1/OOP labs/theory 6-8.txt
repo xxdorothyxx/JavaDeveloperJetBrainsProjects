@@ -1,0 +1,109 @@
+->INHERITANCE:
+
+Inheritance is a process in which one class acquires the property of another class =>
+with Inheritance we care use over and over again the methods and fields of the existing class
+
+why : to enhance reusability
+
+*The keyword extends helps us use inheritance
+
+eg:
+B extends A => B has the properties of A
+We say class B is the child of class A
+Class A is the base class and B is the derived one
+eg: phones(int id,String phone number) and sound systems(int id,int maxVol) are electronic items(int id)
+
+types of inheritance:
+-single : B exxtends A
+-multilevel: B extends A and C extends B
+-hierarhical : B extends A and C extends A
+-NO multiple inheritance : NO C extends A and C extends B
+
+OVERRIDING VS OVERLODING:
+-overriding :
+when we have for eg. class dog w. method bark(): "woof" and class hound that extends it =>
+we can override bark(): "bowl" 
+! SAME NAME, SAME PARAMETER!
+-overloading :
+class dog w. method bark() : "woof" and class hound that extends it=>
+we can overload bark(int num) : for i ->0,n {"woof"}
+! SAME NAME, DIFFERENT PARAMETER
+
+->can we override a static method? : NO(static=doesn't change refers to an attribute of a class(for var and method in a CLASS) not an obj(child class is a dif class)) 
+->can we override a private method? :NO (a private method is not inherited by a subclass)
+->a final method can't be overridden.
+
+->INTERFACES:
+
+Is a list of methods that must be defined by any class which implements the interface(might
+define constants : public static final )
+
+Interfaces is a contract that specifies the methods which needs to be implemented be the
+class implementing the interface. It is like a template/ mechanism to achieve
+abstraction.
+
+* The keyword implements  help us use interfaces
+
+eg : B implements A where A is the interface
+
+1)is used to achieve abstraction
+2)by interface we can supporst the functionality of multiple inheritance
+3)it can be used to achieve loose coupling
+
+An interface :
+!it can't be instantiated by itself
+! has only constant fields
+!declare methods not implement them
+! we can have default,static and private methods in it
+
+->ABSTRACT CLASS
+
+It is a generic class and are similar with normal class and an inteface, it must gave at least an abstract method
+
+* keyword : extends
+
+Rules:
+1) abstract class must be declared with an abstract keyword
+2) can have abstract and non abstract methods
+3)can't be instantiated
+4)can have final,constructors and static methods
+
+Inheritance : class extends class ; class implements interface ; interface extends interface
+
+->INTERFACE VS ABSTRACT CLASS(nelu):
+-Inhterface can't have : constructors, non static fields, non final fields, private & protected fields and methods, final methods
+-Abstract class can't have : defalut methods
+-both can have : static fields and methods, final field,  public fields and meth, abstract & static & non-final methods
+
+->INTERFACE VS ABSTRACT CLASS(lab):
+Interface replaces multiple inheritance 
+-dif: abstract classes allow static meth def , interfaces don't
+-asem : interface is similar with a class w\o instance, static var & method bodies 
+-> nelu said : + both can't be instantiated
+
+->EXCEPTIONS:
+
+Exception is an event which occurs during the execution of a program that disrupts the normal flow of the program's instructions
+how we handle them :
+-try-catch statement
+-finally keyword is optional (not final) and is called whether an exception occurs or not,we can avoid calling it by exitind the program : System.exit(status)
+-throwable is the base class for exceptions
+-we can create our own exception by extending the Exception class
+-two types of exceptions : checked and unchecked
+-we can have as many catch blocks as we want
+try{
+exception is  created
+} catch{
+catch the exception
+} finally {
+always comes here
+}
+
+->ENUM
+public enum Category{
+ENTERTAIMENT, POLITICS, ECONOMY, SPORT
+}
+
+->FINAL VS FINALY:
+The difference between the two is :
+final keyword is used with variables, method... meanwhile finally is used in a try-catch statement

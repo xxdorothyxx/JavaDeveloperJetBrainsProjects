@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1607456733 source:c:\users\win7\desktop\a9\lab_bfs 2\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<vector>
+	<string>
+	<windows.h>
+	<unistd.h>
+	"bfs.h"
+
+1607456380 c:\users\win7\desktop\a9\lab_bfs 2\bfs.h
+	"Profiler.h"
+
+1607456380 c:\users\win7\desktop\a9\lab_bfs 2\profiler.h
+	<Windows.h>
+	<Shellapi.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	<typeinfo>
+	<map>
+	<vector>
+	<algorithm>
+	<functional>
+	<string>
+
+1607456733 source:c:\users\win7\desktop\a9\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<vector>
+	<string>
+	<windows.h>
+	<unistd.h>
+	"bfs.h"
+
+1607456380 c:\users\win7\desktop\a9\bfs.h
+	"Profiler.h"
+
+1607456380 c:\users\win7\desktop\a9\profiler.h
+	<Windows.h>
+	<Shellapi.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	<typeinfo>
+	<map>
+	<vector>
+	<algorithm>
+	<functional>
+	<string>
+
+1607609939 source:c:\users\win7\desktop\a9\bfs.cpp
+	<stdlib.h>
+	<string.h>
+	"bfs.h"
+	<queue>
+	<ctime>
+	<fstream>
+

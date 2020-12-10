@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/doroteea/Documents/AN2/SEM1/FA/ASSIGNMENT/ASSIGNMENT5/A5/main.cpp
+iostream
+-
+fstream
+-
+ctime
+-
+

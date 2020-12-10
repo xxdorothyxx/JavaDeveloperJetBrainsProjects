@@ -7,7 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		B999099F2532514D00F6BDDA /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B999099E2532514D00F6BDDA /* main.cpp */; };
+		B96894CF25800A220067AC56 /* bfs.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B96894CE25800A220067AC56 /* bfs.cpp */; };
+		B96894D125800A340067AC56 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B96894D025800A340067AC56 /* main.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -23,8 +24,12 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		B96894CE25800A220067AC56 /* bfs.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = bfs.cpp; path = ../../../AN2/SEM1/FA/ASSIGNMENT/ASSIGN9/Aa9/Aa9/bfs.cpp; sourceTree = "<group>"; };
+		B96894D025800A340067AC56 /* main.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = main.cpp; path = ../../../AN2/SEM1/FA/ASSIGNMENT/ASSIGN9/Aa9/Aa9/main.cpp; sourceTree = "<group>"; };
+		B96894D225800A400067AC56 /* bfs.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = bfs.h; path = ../../../AN2/SEM1/FA/ASSIGNMENT/ASSIGN9/Aa9/Aa9/bfs.h; sourceTree = "<group>"; };
+		B96894D325800A4C0067AC56 /* grid.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = grid.txt; path = "../../../../Downloads/lab_bfs 2/grid.txt"; sourceTree = "<group>"; };
+		B96894D425800A600067AC56 /* Profiler.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Profiler.h; path = ../../../AN2/SEM1/FA/ASSIGNMENT/ASSIGN9/Aa9/Aa9/Profiler.h; sourceTree = "<group>"; };
 		B999099B2532514D00F6BDDA /* ciorna C++ */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "ciorna C++"; sourceTree = BUILT_PRODUCTS_DIR; };
-		B999099E2532514D00F6BDDA /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +62,11 @@
 		B999099D2532514D00F6BDDA /* ciorna C++ */ = {
 			isa = PBXGroup;
 			children = (
-				B999099E2532514D00F6BDDA /* main.cpp */,
+				B96894D425800A600067AC56 /* Profiler.h */,
+				B96894D325800A4C0067AC56 /* grid.txt */,
+				B96894D225800A400067AC56 /* bfs.h */,
+				B96894D025800A340067AC56 /* main.cpp */,
+				B96894CE25800A220067AC56 /* bfs.cpp */,
 			);
 			path = "ciorna C++";
 			sourceTree = "<group>";
@@ -119,7 +128,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B999099F2532514D00F6BDDA /* main.cpp in Sources */,
+				B96894D125800A340067AC56 /* main.cpp in Sources */,
+				B96894CF25800A220067AC56 /* bfs.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

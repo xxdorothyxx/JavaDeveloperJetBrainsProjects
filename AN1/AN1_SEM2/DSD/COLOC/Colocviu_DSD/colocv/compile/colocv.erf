@@ -1,7 +1,0 @@
-WARNING DAGGEN_0523: "The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available."
-MESSAGE "File: d:/VHDL/Colocviu_DSD/colocv/src/Exam.vhd" 
-MESSAGE "Compile Entity "subiect"" 
-MESSAGE "Compile Architecture "arch" of Entity "subiect"" 
-MESSAGE "Top-level unit(s) detected:" 
-MESSAGE "Entity => subiect" 
-SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time :  0.1 [s]" 
